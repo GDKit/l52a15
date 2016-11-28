@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.sass"],"names":[],"mappings":"AAEA;EACC,sBAAoB,EAAG;;AAExB;EACC,aAAa,EAAG","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\"\n\n.myClass {\n\tcolor: red!important; }\n\n.myClass_green {\n\tcolor: green; }\n"]}

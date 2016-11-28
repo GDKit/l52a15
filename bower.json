@@ -1,0 +1,26 @@
+{
+  "name": "blank l52_a15",
+  "description": "",
+  "main": "",
+  "authors": [
+    "GDKit <dk.it.www@gmail.com>"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "1.5.9",
+    "angular-ui-router": "~0.3.1",
+    "satellizer": "^0.15.5",
+    "bootstrap-sass": "^3.3.7",
+    "angular-animate": "1.5.9"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/GDKit/l52a15",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
